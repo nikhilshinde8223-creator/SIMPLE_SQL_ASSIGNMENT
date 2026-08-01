@@ -1,4 +1,4 @@
-##################################-------------------SIMPLE SQL ASSIGNMENT--------------------------------#####################################
+##########---------------SIMPLE SQL ASSIGNMENT---------------################
 # 📚 SIMPLE SQL ASSIGNMENT
 
 # 🚀 SQL Practice & Assignment Repository
