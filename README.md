@@ -32,7 +32,7 @@ The assignments cover beginner to intermediate SQL topics commonly asked in tech
 * ✅ INNER JOIN
 * ✅ Sorting Data
 * ✅ Filtering Data
-* ✅ SQL Interview Questions
+
 
 ---
 
@@ -62,7 +62,7 @@ The assignments cover beginner to intermediate SQL topics commonly asked in tech
 * Retrieve total quantity sold by author.
 * Top 3 expensive Fantasy books.
 * Cities of customers spending more than $30.
-* Many more SQL interview questions.
+
 
 ---
 ## 📁 Project Structure
@@ -96,7 +96,7 @@ SIMPLE_SQL_ASSIGNMENT/
 * Sorting
 * Grouping
 * Query Optimization
-* SQL Interview Preparation
+
 
 ---
 
@@ -109,7 +109,7 @@ After completing this project, you will be able to:
 * Use aggregate functions.
 * Perform joins.
 * Filter and sort data.
-* Solve interview-based SQL problems.
+
 
 ---
 
